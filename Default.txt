@@ -1,0 +1,24 @@
+<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Prueba3._Default" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+
+   <div class="body">
+        <h1> Pagina para prueba aunque no se me ocurre nada</h1>
+   </div>
+    <div class="encabezado">
+        <p>Tiren paro</p>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <br />
+        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        
+        <br />
+        <br />
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+        
+    </div>
+
+    <div class="img">
+
+    </div>
+
+</asp:Content>
