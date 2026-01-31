@@ -1,0 +1,18 @@
+﻿body {
+    background-color: aquamarine;
+    font-style: oblique;
+    font-family: fantasy;
+}
+
+
+encabezado {
+    background-color: goldenrod;
+    font-family: Webdings;
+}
+
+.img {
+    width: 1000px;
+    height: 1000px;
+    background-image: url(/img/among-us-sus-dance.gif);
+    background-size: 100%;
+}
